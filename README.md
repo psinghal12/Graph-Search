@@ -1,4 +1,5 @@
 # Graph-Search
+A graph search program with classes for vertex, edge, and graph. Tests BFS, DFS and Dijkstra's Algorithm.
 Created for a school project in collaboration with Gabriel Oliver @gabriel-a-oliver.
 
 To run the program, you must:
