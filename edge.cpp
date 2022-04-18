@@ -12,10 +12,6 @@ two vertices. Has methods to represent weight and the end vertex label.
 
 #include <string>
 
-////////////////////////////////////////////////////////////////////////////////
-// This is 80 characters - Keep all lines under 80 characters                 //
-////////////////////////////////////////////////////////////////////////////////
-
 // the initializers in edge.h mean that we don't need to do anything in the
 // default constr
 Edge::Edge() {
